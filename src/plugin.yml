@@ -1,0 +1,10 @@
+name: Reports
+main: work.ecom.test.main
+version: 1.0
+author: Mirai
+description: bossbar test
+commands:
+  spectate:
+    description: boss bar test
+  unspectate:
+    description: boss bar test
